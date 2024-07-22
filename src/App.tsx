@@ -21,7 +21,8 @@ function App() {
   `;
 
   const handleRemoveItem = (index: number) => {
-    const newItems = phoneNumber.filter((item, i) => i !== index);
+    const newItems = phoneNumber.filter((_, i) => i !== index);
+    
     setPhoneNumber(newItems);
   };
 
@@ -48,6 +49,8 @@ function App() {
           <button onClick={() => handleSubmit(i, id)} key={id}>{i}</button>
         ))}
       </div>
+
+      
     </>
   );
 }
