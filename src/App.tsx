@@ -13,7 +13,6 @@ You are welcome to Skydive Frontend BootCamp
 
 *Next Steps:*
 Join Our WhatsApp Group: https://chat.whatsapp.com/BFPedjSDBb11oO7noBgUID
-Check Your Email: Get more details on your admission and what to expect in your inbox.
 facebook: skydive tech hub
 Instagram: @skydivetechhub
 Twitter: @skydivetechhub
